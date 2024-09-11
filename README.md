@@ -17,8 +17,8 @@ This is a Discord bot that fetches and displays CTF (Capture The Flag) events fr
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Tr0x69/CTF-Event-Tracker-Discord-Bot.git
+cd CTF-Event-Tracker-Discord-Bot
 ```
 
 2. **Create a Virtual Environment (optional but recommended):**
